@@ -674,21 +674,21 @@
             this.textBox3.Location = new System.Drawing.Point(515, 79);
             this.textBox3.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(291, 26);
+            this.textBox3.Size = new System.Drawing.Size(410, 26);
             this.textBox3.TabIndex = 60;
             // 
             // textBox4
             // 
-            this.textBox4.Location = new System.Drawing.Point(896, 79);
+            this.textBox4.Location = new System.Drawing.Point(515, 115);
             this.textBox4.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(291, 26);
+            this.textBox4.Size = new System.Drawing.Size(410, 26);
             this.textBox4.TabIndex = 61;
             // 
             // label30
             // 
             this.label30.AutoSize = true;
-            this.label30.Location = new System.Drawing.Point(814, 82);
+            this.label30.Location = new System.Drawing.Point(426, 118);
             this.label30.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label30.Name = "label30";
             this.label30.Size = new System.Drawing.Size(74, 20);
@@ -697,9 +697,10 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Location = new System.Drawing.Point(996, 113);
+            this.pictureBox1.Location = new System.Drawing.Point(932, 77);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(191, 268);
+            this.pictureBox1.Size = new System.Drawing.Size(255, 304);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.pictureBox1.TabIndex = 63;
             this.pictureBox1.TabStop = false;
             // 
